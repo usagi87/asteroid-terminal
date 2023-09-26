@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>terminal.h</file>
+        <file>terminal.cpp</file>
+    </qresource>
+</RCC>
